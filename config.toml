@@ -1,0 +1,16 @@
+# 复制自 configs/config.example.toml，按需修改
+
+title = "星标整理和分类"
+output_md = "README.md"
+output_html = "docs/index.html"
+token_env = "GITHUB_TOKEN"
+
+[[sources]]
+username = "sky22333"
+label = "我的账号"
+
+[classify]
+max_categories = 12
+min_count = 2
+fallback = "language"
+sort_within = "stars"
