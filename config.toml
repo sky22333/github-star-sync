@@ -7,7 +7,7 @@ token_env = "GITHUB_TOKEN"
 
 [[sources]]
 username = "sky22333"
-label = "我的账号"
+label = "用户"
 
 [classify]
 max_categories = 12
