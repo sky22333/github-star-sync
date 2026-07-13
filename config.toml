@@ -1,4 +1,4 @@
-# 复制自 configs/config.example.toml，按需修改
+# 请按需修改下方的用户名
 
 title = "星标整理和分类"
 output_md = "README.md"
