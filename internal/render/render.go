@@ -18,7 +18,7 @@ func Markdown(w io.Writer, r model.Report) error {
 	b.WriteString(r.Title)
 	b.WriteString("\n\n")
 	b.WriteString(fmt.Sprintf(
-		"> 自动生成 · %s · %d 个账号 · 共 **%d** 个星标\n\n",
+		"> 根据[config.toml](config.toml)文件中的配置自动生成的数据 · %s · %d 个账号 · 共 **%d** 个星标\n\n",
 		r.Generated.Local().Format("2006-01-02 15:04"),
 		len(r.Users),
 		r.Total,
