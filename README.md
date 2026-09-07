@@ -2,41 +2,41 @@
 
 # 星标整理和分类
 
-> 根据[config.toml](config.toml)文件中的配置自动生成的数据 · 2026-08-31 04:45 · 1 个账号 · 共 **312** 个星标
+> 根据[config.toml](config.toml)文件中的配置自动生成的数据 · 2026-09-07 03:51 · 1 个账号 · 共 **320** 个星标
 
 ## 目录
 
-- [用户 · @sky22333](#user-sky22333)（312）
-  - [Android](#sky22333-android)（45）
+- [用户 · @sky22333](#user-sky22333)（320）
+  - [Android](#sky22333-android)（46）
   - [Golang](#sky22333-golang)（31）
-  - [Rust](#sky22333-rust)（29）
-  - [JavaScript](#sky22333-javascript)（26）
-  - [Go](#sky22333-go)（21）
+  - [Rust](#sky22333-rust)（30）
+  - [JavaScript](#sky22333-javascript)（23）
+  - [Go](#sky22333-go)（22）
+  - [TypeScript](#sky22333-typescript)（22）
   - [Python](#sky22333-python)（20）
-  - [TypeScript](#sky22333-typescript)（20）
-  - [Kotlin](#sky22333-kotlin)（12）
+  - [Kotlin](#sky22333-kotlin)（11）
   - [Shell](#sky22333-shell)（11）
   - [Linux](#sky22333-linux)（10）
   - [PHP](#sky22333-php)（10）
+  - [Dart](#sky22333-dart)（8）
+  - [HTML](#sky22333-html)（8）
   - [Astro](#sky22333-astro)（7）
   - [C#](#sky22333-c23)（7）
-  - [HTML](#sky22333-html)（7）
-  - [Dart](#sky22333-dart)（6）
+  - [React](#sky22333-react)（7）
+  - [Flutter](#sky22333-flutter)（6）
   - [C](#sky22333-c)（5）
-  - [Flutter](#sky22333-flutter)（5）
   - [Hacktoberfest](#sky22333-hacktoberfest)（5）
   - [Windows](#sky22333-windows)（5）
   - [C++](#sky22333-c2b2b)（4）
-  - [CSS](#sky22333-css)（3）
   - [Zig](#sky22333-zig)（3）
-  - [Proxy](#sky22333-proxy)（2）
+  - [CSS](#sky22333-css)（2）
   - [Vue](#sky22333-vue)（2）
   - [Batchfile](#sky22333-batchfile)（1）
   - [Java](#sky22333-java)（1）
   - [Markdown](#sky22333-markdown)（1）
   - [Objective-C](#sky22333-objective-c)（1）
   - [PowerShell](#sky22333-powershell)（1）
-  - [其他](#sky22333-51764ed6)（11）
+  - [其他](#sky22333-51764ed6)（10）
 
 ---
 
@@ -50,36 +50,36 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | — | 118.6k |
-| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | Kotlin | 61.9k |
-| [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | Java | 60.1k |
-| [skylot/jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | Java | 50.3k |
-| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 39.5k |
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 38.9k |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | :books: 免费的计算机编程类中文书籍，欢迎投稿 | — | 118.7k |
+| [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | Kotlin | 62.3k |
+| [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | Java | 60.4k |
+| [skylot/jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | Java | 50.4k |
+| [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | Java | 39.6k |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | Rust | 39.0k |
 | [airbnb/lottie-android](https://github.com/airbnb/lottie-android) | Render After Effects animations natively on Android and iOS, Web, and React Native | Java | 35.7k |
-| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | Java | 32.5k |
+| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | Browse media content with your own rules on Android TV | Java | 32.7k |
 | [Trinea/android-open-project](https://github.com/Trinea/android-open-project) | A categorized collection of Android Open Source Projects,  More powerful web version: | — | 31.8k |
-| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 🦭 Video/Audio Downloader for Android, based on yt-dlp | Kotlin | 28.6k |
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. | Go | 26.0k |
-| [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 | JavaScript | 22.3k |
+| [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 🦭 Video/Audio Downloader for Android, based on yt-dlp | Kotlin | 28.8k |
+| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. | Dart | 26.1k |
+| [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) | 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 | JavaScript | 22.8k |
 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-while-cache support | Java | 21.5k |
-| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source. | Dart | 19.4k |
-| [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android | Kotlin | 18.1k |
-| [ionic-team/capacitor](https://github.com/ionic-team/capacitor) | Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ | TypeScript | 16.5k |
-| [budtmo/docker-android](https://github.com/budtmo/docker-android) | Android in docker solution with noVNC supported and video recording | Python | 15.8k |
-| [gojue/ecapture](https://github.com/gojue/ecapture) | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. | C | 15.4k |
-| [microg/GmsCore](https://github.com/microg/GmsCore) | Free implementation of Play Services | Java | 14.4k |
-| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. | JavaScript | 10.9k |
+| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source. | Dart | 19.5k |
+| [tiann/KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android | Kotlin | 18.3k |
+| [ionic-team/capacitor](https://github.com/ionic-team/capacitor) | Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ | TypeScript | 16.6k |
+| [budtmo/docker-android](https://github.com/budtmo/docker-android) | Android in docker solution with noVNC supported, video recording and mcp server | Python | 15.8k |
+| [gojue/ecapture](https://github.com/gojue/ecapture) | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. | C | 15.5k |
+| [microg/GmsCore](https://github.com/microg/GmsCore) | Free implementation of Play Services | Java | 14.5k |
+| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 📱 Display and control your Android device graphically with scrcpy. | JavaScript | 11.0k |
 | [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) | Production ready toolkit to run AI locally | C++ | 10.3k |
 | [kivy/python-for-android](https://github.com/kivy/python-for-android) | Turn your Python application into an Android APK | Python | 8.9k |
 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | ServerBox - server status & toolbox | Dart | 8.6k |
 | [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) | An app to view libraries used in apps in your device. | Kotlin | 7.1k |
 | [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) | Android Permissions Framework, Adapt to Android 17 | Java | 6.8k |
-| [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) | The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. | Kotlin | 5.6k |
-| [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) | Control and manage Android devices from your browser. | JavaScript | 4.5k |
+| [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) | The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible. | Kotlin | 5.7k |
+| [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) | Control and manage Android devices from your browser. | JavaScript | 4.6k |
 | [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries) | AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose Multiplatform environments | Kotlin | 4.4k |
 | [Cateners/tiny_container](https://github.com/Cateners/tiny_container) | Click-to-run debian 13 with desktop environment on android! | Kotlin | 4.1k |
-| [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | A Flutter LLM Chat Client. Support Mobile & Desktop. | Dart | 3.8k |
+| [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | A Flutter LLM Chat Client. Support Mobile & Desktop. | Dart | 3.9k |
 | [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) | An application to write OS images to USB drives, on Android, no root required. | Kotlin | 3.5k |
 | [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) | A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery. | Kotlin | 3.4k |
 | [pedroSG94/RootEncoder](https://github.com/pedroSG94/RootEncoder) | RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP, SRT and UDP with all code written in Java/Kotlin | Kotlin | 3.0k |
@@ -87,14 +87,15 @@
 | [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) | A lightweight, fast and reliable tun2socks | C | 2.0k |
 | [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) | A multifunctional Android code editor library. (aka CodeEditor) | Java | 1.4k |
 | [appsfolder/livebridge](https://github.com/appsfolder/livebridge) | Level up your dynamic pill/island on Android | Dart | 1.1k |
-| [yako-dev/flutter-settings-ui](https://github.com/yako-dev/flutter-settings-ui) | Create native settings for Flutter app in a minutes. | Dart | 961 |
-| [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) | 🎨 Generate a dynamic Material3 color scheme from a seed color | Kotlin | 928 |
-| [harmony-on-android/HOA](https://github.com/harmony-on-android/HOA) | Run OpenHarmony hap on Android | Kotlin | 733 |
-| [Joker-x-dev/CoolMallKotlin](https://github.com/Joker-x-dev/CoolMallKotlin) | Full‑Featured Android Compose App Framework • Kotlin, MVVM, Navigation, Networking, Storage & Modular Architecture for Real‑World Projects | Kotlin | 732 |
-| [knoop7/Ava](https://github.com/knoop7/Ava) | Turn Android 5-16 devices into lightweight Home Assistant satellites with Bluetooth proxy, local intercom, and smart home panel features. | Kotlin | 499 |
+| [yako-dev/flutter-settings-ui](https://github.com/yako-dev/flutter-settings-ui) | Create native settings for Flutter app in a minutes. | Dart | 960 |
+| [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) | 🎨 Generate a dynamic Material3 color scheme from a seed color | Kotlin | 933 |
+| [harmony-on-android/HOA](https://github.com/harmony-on-android/HOA) | Run OpenHarmony hap on Android | Kotlin | 747 |
+| [Joker-x-dev/CoolMallKotlin](https://github.com/Joker-x-dev/CoolMallKotlin) | Full‑Featured Android Compose App Framework • Kotlin, MVVM, Navigation, Networking, Storage & Modular Architecture for Real‑World Projects | Kotlin | 735 |
+| [knoop7/Ava](https://github.com/knoop7/Ava) | Turn Android 5-16 devices into lightweight Home Assistant satellites with Bluetooth proxy, local intercom, and smart home panel features. | Kotlin | 512 |
 | [cocool97/adb_client](https://github.com/cocool97/adb_client) | Rust & Python ADB (Android Debug Bridge) client library | Rust | 387 |
-| [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) | Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid | Kotlin | 326 |
-| [sk3llo/ffmpeg_kit_flutter](https://github.com/sk3llo/ffmpeg_kit_flutter) | Fork of the original FFmpeg Kit library to work with Android V2 bindings and Flutter 3+ | C | 178 |
+| [GPLaider/Ventoid](https://github.com/GPLaider/Ventoid) | Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid | Kotlin | 341 |
+| [sk3llo/ffmpeg_kit_flutter](https://github.com/sk3llo/ffmpeg_kit_flutter) | Fork of the original FFmpeg Kit library to work with Android V2 bindings and Flutter 3+ | C | 179 |
+| [codenameakshay/secure_content](https://github.com/codenameakshay/secure_content) | Protect your app from screenshots, screen recording & on recent apps screen. Necessary for bank/payment/security apps. Works for both Android & iOS, and is in development. | Dart | 10 |
 
 ### Golang
 
@@ -102,12 +103,12 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [moby/moby](https://github.com/moby/moby) | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | Go | 72.0k |
-| [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | Go | 59.5k |
-| [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | Go | 36.1k |
+| [moby/moby](https://github.com/moby/moby) | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | Go | 72.1k |
+| [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | Go | 59.6k |
+| [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | Go | 36.2k |
 | [iawia002/lux](https://github.com/iawia002/lux) | 👾 Fast and simple video download library and CLI tool written in Go | Go | 31.7k |
-| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~ | Go | 28.8k |
-| [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers | Go | 28.6k |
+| [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~ | Go | 28.9k |
+| [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers | Go | 28.7k |
 | [gocolly/colly](https://github.com/gocolly/colly) | Elegant Scraper and Crawler Framework for Golang | Go | 25.5k |
 | [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams. | Go | 20.0k |
 | [golang-migrate/migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | Go | 18.9k |
@@ -118,21 +119,21 @@
 | [gwuhaolin/livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang | Go | 10.2k |
 | [golang-jwt/jwt](https://github.com/golang-jwt/jwt) | Go implementation of JSON Web Tokens (JWT). | Go | 9.2k |
 | [go-git/go-git](https://github.com/go-git/go-git) | A highly extensible Git implementation in pure Go. | Go | 7.7k |
-| [go-co-op/gocron](https://github.com/go-co-op/gocron) | Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron | Go | 7.1k |
-| [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) | A simple wake on lan web app written with SvelteKit, Go and PocketBase. | Go | 6.2k |
+| [amacneil/dbmate](https://github.com/amacneil/dbmate) | 🚀 A lightweight, framework-agnostic database migration tool. | Go | 7.3k |
+| [go-co-op/gocron](https://github.com/go-co-op/gocron) | Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron | Go | 7.2k |
+| [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) | A simple wake on lan web app written with SvelteKit, Go and PocketBase. | Go | 6.3k |
 | [go-pay/gopay](https://github.com/go-pay/gopay) | 微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】 | Go | 5.7k |
 | [duke-git/lancet](https://github.com/duke-git/lancet) | A comprehensive, efficient, and reusable util function library of Go. | Go | 5.3k |
 | [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) | go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 | Go | 4.4k |
-| [ebitengine/purego](https://github.com/ebitengine/purego) | A library for calling C functions from Go without Cgo | Assembly | 3.8k |
-| [asciimoo/hister](https://github.com/asciimoo/hister) | Your own search engine | Go | 3.4k |
+| [ebitengine/purego](https://github.com/ebitengine/purego) | A library for calling C functions from Go without Cgo | Assembly | 3.9k |
 | [ProudMuBai/GoFilm](https://github.com/ProudMuBai/GoFilm) | 多播放源自动采集在线影视网站 golang vue | Go | 2.2k |
 | [pelletier/go-toml](https://github.com/pelletier/go-toml) | Go library for the TOML file format | Go | 2.0k |
-| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon. | Go | 866 |
-| [glebarez/sqlite](https://github.com/glebarez/sqlite) | The pure-Go SQLite driver for GORM | Go | 865 |
+| [glebarez/sqlite](https://github.com/glebarez/sqlite) | The pure-Go SQLite driver for GORM | Go | 866 |
+| [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) | To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon. | Go | 865 |
 | [ccding/go-stun](https://github.com/ccding/go-stun) | A go implementation of the STUN client (RFC 3489 and RFC 5389) | Go | 722 |
-| [appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy) | easyssh-proxy provides a simple implementation of some SSH protocol features in Go | Go | 348 |
+| [appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy) | easyssh-proxy provides a simple implementation of some SSH protocol features in Go | Go | 349 |
 | [blacknon/lssh](https://github.com/blacknon/lssh) | A terminal-native remote access suite for SSH, cloud inventories, provider-backed connectors, parallel commands, mux workspaces, file transfer, and monitoring. | Go | 326 |
-| [thongtech/go-legacy-win7](https://github.com/thongtech/go-legacy-win7) | Go programming language with Windows 7/8/8.1, Server 2008 R2/2012/2012 R2 support and classic "go get" behaviour | Go | 229 |
+| [thongtech/go-legacy-win7](https://github.com/thongtech/go-legacy-win7) | Go programming language with Windows 7/8/8.1, Server 2008 R2/2012/2012 R2 support and classic "go get" behaviour | Go | 232 |
 
 ### Rust
 
@@ -140,35 +141,36 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [tw93/Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with one command. | Rust | 61.2k |
-| [atuinsh/atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical | Rust | 31.5k |
-| [sunface/rust-course](https://github.com/sunface/rust-course) | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book | Rust | 30.8k |
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases. | Rust | 24.1k |
-| [slint-ui/slint](https://github.com/slint-ui/slint) | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. | Rust | 23.6k |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 | Rust | 17.5k |
-| [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). | Rust | 14.4k |
+| [tw93/Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with one command. | Rust | 61.3k |
+| [atuinsh/atuin](https://github.com/atuinsh/atuin) | ✨ Making your shell magical | Rust | 31.6k |
+| [sunface/rust-course](https://github.com/sunface/rust-course) | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book | Rust | 30.9k |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases. | Rust | 24.2k |
+| [slint-ui/slint](https://github.com/slint-ui/slint) | Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps. | Rust | 23.7k |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 | Rust | 18.1k |
+| [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). | Rust | 14.6k |
 | [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) | A Rust port of shadowsocks | Rust | 10.8k |
 | [sigoden/dufs](https://github.com/sigoden/dufs) | A file server that supports static serving, uploading, searching, accessing control, webdav... | Rust | 10.7k |
 | [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS） | Vue | 7.7k |
 | [erebe/wstunnel](https://github.com/erebe/wstunnel) | Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available | Rust | 7.0k |
-| [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. | Rust | 5.7k |
-| [telemt/telemt](https://github.com/telemt/telemt) | MTProxy for Telegram on Rust + Tokio | Rust | 5.6k |
+| [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. | Rust | 5.9k |
+| [telemt/telemt](https://github.com/telemt/telemt) | MTProxy for Telegram on Rust + Tokio | Rust | 5.7k |
 | [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) | Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple. | Dart | 5.4k |
 | [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) | a multi-language bindings generator for rust | Rust | 4.9k |
 | [harlanc/xiu](https://github.com/harlanc/xiu) | A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀 | Rust | 2.3k |
-| [Chunyu33/light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | Rust | 1.9k |
-| [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) | Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance. | Rust | 1.8k |
+| [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) | Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance. | Rust | 2.3k |
+| [Chunyu33/light-c](https://github.com/Chunyu33/light-c) | A free, minimalist, lightweight, and high-performance C-drive cleanup tool. | Rust | 2.0k |
+| [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) | Tunnel (TUN) interface for SOCKS and HTTP proxies | Rust | 1.4k |
 | [cfal/shoes](https://github.com/cfal/shoes) | A multi-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5, AnyTLS, Naiveproxy, XTLS) | Rust | 1.2k |
-| [wnzzer/rank-analysis](https://github.com/wnzzer/rank-analysis) | A League of Legends match history and performance analysis assistant built with Tauri 2 and Rust. Its innovative tagging system lets users instantly identify and analyze underperforming teammates, hard carries, and “passenger” players. | Rust | 415 |
+| [wnzzer/rank-analysis](https://github.com/wnzzer/rank-analysis) | A League of Legends match history and performance analysis assistant built with Tauri 2 and Rust. Its innovative tagging system lets users instantly identify and analyze underperforming teammates, hard carries, and “passenger” players. | TypeScript | 421 |
 | [alley-rs/lsar](https://github.com/alley-rs/lsar) | 直播解析图形化程序 | Rust | 217 |
 | [Kudaes/ADPT](https://github.com/Kudaes/ADPT) | DLL proxying for lazy people | Rust | 210 |
-| [MoeShinX/relay-panel](https://github.com/MoeShinX/relay-panel) | Self-hosted TCP/UDP forwarding management panel with relay-node, WebSocket control, quotas, and traffic stats. | Rust | 194 |
-| [microsoft/rust-guidelines](https://github.com/microsoft/rust-guidelines) | Write idiomatic Rust that scales. | Rust | 192 |
-| [chi11321/CrabPort](https://github.com/chi11321/CrabPort) | A modern, cross-platform SSH / SFTP client built with Rust and GPUI. Features integrated terminal, SFTP file management, SSH tunneling, and secure credential storage. | Rust | 154 |
-| [rustrak/rustrak](https://github.com/rustrak/rustrak) | Ultra-lightweight error tracking server compatible with Sentry SDKs | TypeScript | 116 |
+| [MoeShinX/relay-panel](https://github.com/MoeShinX/relay-panel) | Self-hosted TCP/UDP forwarding management panel with relay-node, WebSocket control, quotas, and traffic stats. | Rust | 198 |
+| [microsoft/rust-guidelines](https://github.com/microsoft/rust-guidelines) | Write idiomatic Rust that scales. | Rust | 197 |
+| [chi11321/CrabPort](https://github.com/chi11321/CrabPort) | A modern, cross-platform SSH / SFTP client built with Rust and GPUI. Features integrated terminal, SFTP file management, SSH tunneling, and secure credential storage. | Rust | 155 |
+| [rustrak/rustrak](https://github.com/rustrak/rustrak) | Ultra-lightweight error tracking server compatible with Sentry SDKs | TypeScript | 127 |
 | [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) | A cross platform CLI to dump Android OTA payload from URLs and Local files | Rust | 99 |
-| [DaviRain-Su/hyper-grok-build](https://github.com/DaviRain-Su/hyper-grok-build) | Hyper — unofficial multi-provider community build of Grok Build: a Rust terminal AI coding agent (TUI) supporting xAI Grok, Kimi Code, ChatGPT Codex, OpenAI, Anthropic, Z.AI & Ollama. 10-language localized UI, ACP editor integration, headless CI mode. | Rust | 79 |
-| [lablup/bssh](https://github.com/lablup/bssh) | A high-performance parallel SSH command execution tool for cluster management | Rust | 32 |
+| [DaviRain-Su/hyper-grok-build](https://github.com/DaviRain-Su/hyper-grok-build) | Hyper — unofficial multi-provider community build of Grok Build: a Rust terminal AI coding agent (TUI) supporting xAI Grok, Kimi Code, ChatGPT Codex, OpenAI, Anthropic, Z.AI & Ollama. 10-language localized UI, ACP editor integration, headless CI mode. | Rust | 80 |
+| [lablup/bssh](https://github.com/lablup/bssh) | A high-performance parallel SSH command execution tool for cluster management | Rust | 63 |
 
 ### JavaScript
 
@@ -176,31 +178,28 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | JavaScript | 82.6k |
-| [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love | Svelte | 42.5k |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 | JavaScript | 25.9k |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | JavaScript | 84.9k |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love | Svelte | 42.7k |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 | JavaScript | 28.4k |
 | [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands | JavaScript | 25.8k |
-| [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | A Cloudflare-based email service  \| 基于 Cloudflare 的邮箱服务  \| Cloudflare Email 邮箱 Mail | JavaScript | 13.8k |
-| [fmhy/edit](https://github.com/fmhy/edit) | Make changes to FMHY | JavaScript | 11.4k |
+| [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | A Cloudflare-based email service  \| 基于 Cloudflare 的邮箱服务  \| Cloudflare Email 邮箱 Mail | JavaScript | 14.0k |
+| [fmhy/edit](https://github.com/fmhy/edit) | Make changes to FMHY | JavaScript | 11.6k |
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket! | JavaScript | 10.4k |
 | [bytedance/xgplayer](https://github.com/bytedance/xgplayer) | A HTML5 video player with a parser that saves traffic | JavaScript | 9.3k |
-| [gitalk/gitalk](https://github.com/gitalk/gitalk) | Gitalk is a modern comment component based on Github Issue and Preact. | JavaScript | 7.2k |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android | JavaScript | 6.8k |
-| [code-hike/codehike](https://github.com/code-hike/codehike) | Build rich content websites with Markdown and React | TypeScript | 5.4k |
 | [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) | MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！ | JavaScript | 4.1k |
 | [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) | :art: ArtPlayer.js is a modern and full featured HTML5 video player | JavaScript | 4.0k |
 | [walinejs/waline](https://github.com/walinejs/waline) | 💬 A Simple, Safe Comment System | JavaScript | 3.1k |
-| [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | JavaScript | 3.0k |
+| [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | JavaScript | 3.1k |
 | [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) | :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 \| A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc. | PHP | 3.0k |
 | [WordPress/agent-skills](https://github.com/WordPress/agent-skills) | Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices | JavaScript | 2.1k |
 | [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) |  | JavaScript | 1.6k |
 | [frankiejun/wxpush](https://github.com/frankiejun/wxpush) | 一个极简且免费的微信消息推送服务 | JavaScript | 1.3k |
-| [XiaoMi/hiui](https://github.com/XiaoMi/hiui) | HIUI is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend. | TypeScript | 874 |
-| [kenzok8/openwrt-daede](https://github.com/kenzok8/openwrt-daede) | 一个基于 eBPF 的高性能透明代理，luci用于 dae 和 daed 透明代理后端。 | JavaScript | 508 |
+| [kenzok8/openwrt-daede](https://github.com/kenzok8/openwrt-daede) | 一个基于 eBPF 的高性能透明代理，luci用于 dae 和 daed 透明代理后端。 | JavaScript | 539 |
 | [gooking/visitingCard](https://github.com/gooking/visitingCard) | 微信小程序开发的电子名片应用，抛砖引玉，欢迎大家一起来维护，贡献代码 | JavaScript | 330 |
-| [adminouyang/231006](https://github.com/adminouyang/231006) | 主要搜集tvbox配置文件 | JavaScript | 244 |
-| [numakkiyu/NeteaseMiniPlayer](https://github.com/numakkiyu/NeteaseMiniPlayer) | [Deprecated] NeteaseMiniPlayer v2 is no longer maintained. Please migrate to NeteaseMiniPlayer_v3. | JavaScript | 59 |
-| [Mabbs/mabbs.github.io](https://github.com/Mabbs/mabbs.github.io) | Mayx's Home Page | JavaScript | 40 |
+| [adminouyang/231006](https://github.com/adminouyang/231006) | 主要搜集tvbox配置文件 | JavaScript | 246 |
+| [numakkiyu/NeteaseMiniPlayer](https://github.com/numakkiyu/NeteaseMiniPlayer) | [Deprecated] NeteaseMiniPlayer v2 is no longer maintained. Please migrate to NeteaseMiniPlayer_v3. | JavaScript | 60 |
+| [Mabbs/mabbs.github.io](https://github.com/Mabbs/mabbs.github.io) | Mayx's Home Page | JavaScript | 41 |
 | [sirvffg/AuroraPlayer](https://github.com/sirvffg/AuroraPlayer) | 一个轻量级、功能丰富的网页音乐播放器-可以引入到网站,博客等 基于 NeteaseMiniPlayer v2 进行修改开发。 | JavaScript | 1 |
 
 ### Go
@@ -209,54 +208,28 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) | Go | 45.6k |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | Go | 39.9k |
-| [spf13/viper](https://github.com/spf13/viper) | Go configuration with fangs | Go | 30.4k |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) | Go | 46.0k |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 | Go | 40.7k |
+| [spf13/viper](https://github.com/spf13/viper) | Go configuration with fangs | Go | 30.5k |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity | Go | 29.9k |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | Go | 24.4k |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | Go | 24.5k |
 | [go-task/task](https://github.com/go-task/task) | A fast, cross-platform build tool inspired by Make, designed for modern workflows. | Go | 16.1k |
 | [markbates/goth](https://github.com/markbates/goth) | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | Go | 6.6k |
-| [komari-monitor/komari](https://github.com/komari-monitor/komari) | A simple server monitor tool. | Go | 6.0k |
+| [komari-monitor/komari](https://github.com/komari-monitor/komari) | A simple server monitor tool. | Go | 6.1k |
 | [tucnak/telebot](https://github.com/tucnak/telebot) | Telebot is a Telegram bot framework in Go. | Go | 4.6k |
 | [aarondl/authboss](https://github.com/aarondl/authboss) | The boss of http auth. | Go | 4.2k |
 | [google/go-containerregistry](https://github.com/google/go-containerregistry) | Go library and CLIs for working with container registries | Go | 4.0k |
 | [GMWalletApp/epusdt](https://github.com/GMWalletApp/epusdt) | 开源优雅的跨平台收款网关 GM Pay(formerly known as EPUSDT) | Go | 3.8k |
-| [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | CN Windows 多网卡带宽叠加工具。无需复杂配置，一键聚合多网卡（有线、Wi-Fi网卡、手机热点等），实现物理级多线下载与叠加网速。 EN Windows multi-NIC bandwidth aggregator. Zero complex setup. One-click to combine multiple networks (Ethernet, Wi-Fi, mobile hotspots, etc.) for physical-level concurrent downloading and multiplied speeds. | Go | 3.3k |
+| [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | CN Windows 多网卡聚合与网络加速工具。一键融合有线、Wi-Fi、热点等连接，实现多路径传输与智能流量调度。 EN Windows multi-NIC network accelerator. Combine Ethernet, Wi-Fi, hotspots and more for multi-path transmission and smart traffic routing. | Go | 3.4k |
 | [langhuihui/monibuca](https://github.com/langhuihui/monibuca) | 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server | Go | 2.4k |
+| [Resinat/Resin](https://github.com/Resinat/Resin) | A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions. | Go | 2.3k |
 | [koho/frpmgr](https://github.com/koho/frpmgr) | A user-friendly desktop GUI client for FRP on Windows. | Go | 2.0k |
 | [v03413/BEpusdt](https://github.com/v03413/BEpusdt) | 一款更好用的个人加密货币收款网关 | Go | 2.0k |
-| [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) | Dujiao-Next | Go | 1.1k |
-| [qtgolang/SunnyNet](https://github.com/qtgolang/SunnyNet) | SunnyNet网络中间件 | Go | 552 |
-| [shtorm-7/sing-box-extended](https://github.com/shtorm-7/sing-box-extended) | The universal proxy platform | Go | 485 |
-| [jwwsjlm/douyinLive](https://github.com/jwwsjlm/douyinLive) | 抖音弹幕抓取 | Go | 454 |
-| [MHSanaei/mtg-multi](https://github.com/MHSanaei/mtg-multi) | Highly opinionated MTPROTO proxy for Telegram. Supports accounts | Go | 22 |
-
-### Python
-
-<a id="sky22333-python"></a>
-
-| 仓库 | 简介 | 语言 | ★ |
-| --- | --- | --- | ---: |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 473.4k |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | Python | 118.9k |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 75.7k |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  \| 知乎问答文章｜评论爬虫 | Python | 64.1k |
-| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | 61.2k |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | Python | 43.7k |
-| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 | Python | 28.5k |
-| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署 | Python | 25.0k |
-| [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文独立博客列表 | Python | 23.9k |
-| [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 | Python | 11.7k |
-| [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。 | Python | 8.2k |
-| [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) | A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again. | Python | 8.1k |
-| [guchangan1/All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) | 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。 | Python | 8.0k |
-| [android/skills](https://github.com/android/skills) |  | Python | 7.1k |
-| [xushier/HD-Icons](https://github.com/xushier/HD-Icons) | 高清仪表盘图标（1024x1024 分辨率） | Python | 1.9k |
-| [Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live) | 直播源检索、测速、优选 | Python | 1.0k |
-| [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) | Advanced Multi-Featured Telegram UserBot by pyrogram. | Python | 810 |
-| [zhiyiYo/PyQt-Frameless-Window](https://github.com/zhiyiYo/PyQt-Frameless-Window) | A cross-platform frameless window based on PyQt/PySide, support Win32, Linux and macOS. | Python | 763 |
-| [SideCloudGroup/BetterForward](https://github.com/SideCloudGroup/BetterForward) | Designed for better message forwarding in Telegram. | Python | 698 |
-| [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) | Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive bot on Telegram. Avoid spam messages; allow restricted customers to contact you smoothly.Simple CRM system. | Python | 365 |
+| [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) | Dujiao-Next | Go | 1.2k |
+| [qtgolang/SunnyNet](https://github.com/qtgolang/SunnyNet) | SunnyNet网络中间件 | Go | 551 |
+| [shtorm-7/sing-box-extended](https://github.com/shtorm-7/sing-box-extended) | The universal proxy platform | Go | 498 |
+| [jwwsjlm/douyinLive](https://github.com/jwwsjlm/douyinLive) | 抖音弹幕抓取 | Go | 458 |
+| [MHSanaei/mtg-multi](https://github.com/MHSanaei/mtg-multi) | Highly opinionated MTPROTO proxy for Telegram. Supports accounts | Go | 23 |
 
 ### TypeScript
 
@@ -264,26 +237,55 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | TypeScript | 137.1k |
-| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | The easiest way to run WireGuard VPN + Web-based Admin UI. | TypeScript | 26.8k |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | TypeScript | 137.9k |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | TypeScript | 94.5k |
+| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | The easiest way to run WireGuard VPN + Web-based Admin UI. | TypeScript | 26.9k |
 | [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) | ActivityPub-federated video streaming platform using P2P directly in your web browser | TypeScript | 15.3k |
 | [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) | Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search. | TypeScript | 12.4k |
 | [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) | Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. | TypeScript | 9.6k |
-| [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | An app that brings language models directly to your phone. | TypeScript | 8.1k |
+| [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | An app that brings language models directly to your phone. | TypeScript | 8.2k |
 | [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks | TypeScript | 3.8k |
 | [polywock/globalSpeed](https://github.com/polywock/globalSpeed) | Web extension to set a default speed for video and audio | TypeScript | 2.7k |
+| [vercel/workflow](https://github.com/vercel/workflow) | Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript | TypeScript | 2.4k |
+| [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) | A Vue3.x UI components lib for TDesign. | TypeScript | 2.2k |
 | [daeuniverse/daed](https://github.com/daeuniverse/daed) | daed, A modern web dashboard for dae. | TypeScript | 2.0k |
 | [iluobei/miaomiaowu](https://github.com/iluobei/miaomiaowu) | Clash配置订阅管理工具，支持节点管理、生成订阅、导入外部订阅节点、聚合流量、聚合订阅等功能。 | TypeScript | 1.1k |
-| [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) | A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts. | TypeScript | 804 |
-| [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) | Drop a Live2D character onto any web page. One function call, zero framework dependencies. | TypeScript | 628 |
-| [vercel-labs/mdxg](https://github.com/vercel-labs/mdxg) | Spec for markdown presentation and interaction | TypeScript | 361 |
+| [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) | Drop a Live2D character onto any web page. One function call, zero framework dependencies. | TypeScript | 629 |
+| [vercel-labs/mdxg](https://github.com/vercel-labs/mdxg) | Spec for markdown presentation and interaction | TypeScript | 362 |
+| [newbietan/CloudSSH](https://github.com/newbietan/CloudSSH) | Serverless Web SSH client built on Cloudflare Workers with a pure TypeScript SSH stack, multi-session terminals, SFTP file management, and an AI operations assistant. 基于 Cloudflare Workers 的无服务器 Web SSH 客户端，支持多会话终端、SFTP 文件管理与 AI 运维助手。 | TypeScript | 326 |
 | [lxchapu/astro-gyoza](https://github.com/lxchapu/astro-gyoza) | A simple and cute static blog template built with Astro and React.🥟🥟🥟 | TypeScript | 311 |
-| [siiway/urlclash-converter](https://github.com/siiway/urlclash-converter) | Clash <-> Link 节点转换工具 \| 纯本地运行 \| 支持多种协议 | TypeScript | 305 |
+| [siiway/urlclash-converter](https://github.com/siiway/urlclash-converter) | Clash <-> Link 节点转换工具 \| 纯本地运行 \| 支持多种协议 | TypeScript | 308 |
 | [Dolov/chrome-best-cookier](https://github.com/Dolov/chrome-best-cookier) | Easily manage your cookies. | TypeScript | 300 |
-| [newbietan/CloudSSH](https://github.com/newbietan/CloudSSH) | Serverless Web SSH client built on Cloudflare Workers with a pure TypeScript SSH stack, multi-session terminals, SFTP file management, and an AI operations assistant. 基于 Cloudflare Workers 的无服务器 Web SSH 客户端，支持多会话终端、SFTP 文件管理与 AI 运维助手。 | TypeScript | 277 |
 | [mskatoni/ni-mail](https://github.com/mskatoni/ni-mail) | 极简 Cloudflare Worker，接收私人域名邮件并提供 HTTP API 读取 | TypeScript | 85 |
-| [GMWalletApp/gmshop-edge](https://github.com/GMWalletApp/gmshop-edge) | Demo username and password: root@example.com | TypeScript | 59 |
+| [GMWalletApp/gmshop-edge](https://github.com/GMWalletApp/gmshop-edge) | Demo username and password: root@example.com | TypeScript | 63 |
 | [oomeow/clash-verge-self](https://github.com/oomeow/clash-verge-self) | Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) | TypeScript | 26 |
+
+### Python
+
+<a id="sky22333-python"></a>
+
+| 仓库 | 简介 | 语言 | ★ |
+| --- | --- | --- | ---: |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 476.6k |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | Python | 121.2k |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | 77.3k |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  \| 知乎问答文章｜评论爬虫 | Python | 64.5k |
+| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | 61.3k |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | Python | 45.0k |
+| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 | Python | 28.7k |
+| [Guovin/iptv-api](https://github.com/Guovin/iptv-api) | ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署 | Python | 25.1k |
+| [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文独立博客列表 | Python | 23.9k |
+| [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 | Python | 11.7k |
+| [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。 | Python | 8.2k |
+| [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) | A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again. | Python | 8.1k |
+| [guchangan1/All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) | 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。 | Python | 8.0k |
+| [android/skills](https://github.com/android/skills) |  | Python | 7.2k |
+| [xushier/HD-Icons](https://github.com/xushier/HD-Icons) | 高清仪表盘图标（1024x1024 分辨率） | Python | 1.9k |
+| [Supprise0901/TVBox_live](https://github.com/Supprise0901/TVBox_live) | 直播源检索、测速、优选 | Python | 1.0k |
+| [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) | Advanced Multi-Featured Telegram UserBot by pyrogram. | Python | 809 |
+| [zhiyiYo/PyQt-Frameless-Window](https://github.com/zhiyiYo/PyQt-Frameless-Window) | A cross-platform frameless window based on PyQt/PySide, support Win32, Linux and macOS. | Python | 764 |
+| [SideCloudGroup/BetterForward](https://github.com/SideCloudGroup/BetterForward) | Designed for better message forwarding in Telegram. | Python | 699 |
+| [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) | Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive bot on Telegram. Avoid spam messages; allow restricted customers to contact you smoothly.Simple CRM system. | Python | 364 |
 
 ### Kotlin
 
@@ -292,17 +294,16 @@
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
 | [yausername/youtubedl-android](https://github.com/yausername/youtubedl-android) | youtube-dl for android | Kotlin | 1.4k |
-| [roro2239/Stellar](https://github.com/roro2239/Stellar) | Another Shizuku impl | Kotlin | 1.3k |
+| [roro2239/Stellar](https://github.com/roro2239/Stellar) | Another Shizuku impl | Kotlin | 1.4k |
 | [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix) | A UI library for Compose Multiplatform | Kotlin | 1.2k |
-| [GlassHaven/Haven](https://github.com/GlassHaven/Haven) | Free SSH, VNC, RDP & SFTP client for Android | Kotlin | 1.1k |
-| [starifly/NekoBoxForAndroid](https://github.com/starifly/NekoBoxForAndroid) | NekoBoxF(ork) for Android / sing-box / universal proxy toolchain for Android | Kotlin | 1.0k |
+| [GlassHaven/Haven](https://github.com/GlassHaven/Haven) | Free SSH, VNC, RDP & SFTP client for Android | Kotlin | 1.2k |
+| [starifly/NekoBoxForAndroid](https://github.com/starifly/NekoBoxForAndroid) | NekoBoxF(ork) for Android / sing-box / universal proxy toolchain for Android | Kotlin | 1.1k |
 | [Kotlin/kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills) | A collection of AI agent skills useful for projects using Kotlin language | Shell | 1.0k |
-| [terrakok/Compose-Multiplatform-Wizard](https://github.com/terrakok/Compose-Multiplatform-Wizard) | Compose Multiplatform Wizard | Kotlin | 709 |
-| [microsoft/fluentui-android](https://github.com/microsoft/fluentui-android) |  | Kotlin | 676 |
-| [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) | A Kotlin Multiplatform library to connect Android devices directly without ADB binary file. | Kotlin | 87 |
+| [terrakok/Compose-Multiplatform-Wizard](https://github.com/terrakok/Compose-Multiplatform-Wizard) | Compose Multiplatform Wizard | Kotlin | 710 |
+| [microsoft/fluentui-android](https://github.com/microsoft/fluentui-android) |  | Kotlin | 677 |
+| [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb) | A Kotlin Multiplatform library to connect Android devices directly without ADB binary file. | Kotlin | 89 |
 | [D10NGYANG/DLJetpackComposeUtil](https://github.com/D10NGYANG/DLJetpackComposeUtil) | 基于 Compose Multiplatform 开发的 Vant 风格 UI 组件库，支持 Android、iOS 和 Web(WasmJs) 平台。 | Kotlin | 47 |
 | [Albermonte/android-skills](https://github.com/Albermonte/android-skills) |  | Kotlin | 10 |
-| [liuxian513/Nrfr-Community-Improved](https://github.com/liuxian513/Nrfr-Community-Improved) | Community improved build of Ackites/Nrfr with Android 16 CarrierConfig fallback | Kotlin | 8 |
 
 ### Shell
 
@@ -310,16 +311,16 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 242.0k |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | 254.9k |
 | [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) | openwrt 软路由固件 | Shell | 9.0k |
-| [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) | openwrt常用软件包 | Shell | 7.2k |
 | [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) | VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs | Shell | 7.2k |
+| [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) | openwrt常用软件包 | Shell | 7.2k |
 | [fscarmen/sing-box](https://github.com/fscarmen/sing-box) | Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵活。 | Shell | 5.6k |
 | [leitbogioro/Tools](https://github.com/leitbogioro/Tools) | Something about tools | Shell | 3.9k |
 | [wukongdaily/ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder) | 它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。 | Shell | 2.6k |
 | [1995chen/dnf](https://github.com/1995chen/dnf) |  | Shell | 2.2k |
 | [actionbook/rust-skills](https://github.com/actionbook/rust-skills) | Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing | Shell | 1.4k |
-| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit | Shell | 1.3k |
+| [hamen/material-3-skill](https://github.com/hamen/material-3-skill) | Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit | Shell | 1.4k |
 | [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) | Run Cloudflare WARP in Docker. | Shell | 1.0k |
 
 ### Linux
@@ -328,16 +329,16 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 141.2k |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 90.7k |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 142.7k |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | Python | 91.0k |
 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. | — | 47.8k |
 | [ish-app/ish](https://github.com/ish-app/ish) | Linux shell for iOS | C | 20.4k |
-| [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | Shell | 12.9k |
+| [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | Shell | 13.1k |
 | [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) | Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. | Jinja | 12.2k |
 | [mmulet/term.everything](https://github.com/mmulet/term.everything) | Run any GUI app in the terminal❗ | Go | 8.1k |
 | [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) | GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 | Shell | 7.7k |
 | [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) | Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Laravel Herd, with runtimes, databases, web servers, local sites, HTTPS, AI coding tools and MCP. | TypeScript | 3.2k |
-| [ExTV/Podroid](https://github.com/ExTV/Podroid) | A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps. | Kotlin | 2.1k |
+| [ExTV/Podroid](https://github.com/ExTV/Podroid) | A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps. | Kotlin | 2.2k |
 
 ### PHP
 
@@ -345,16 +346,46 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡 | PHP | 5.5k |
+| [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡 | PHP | 5.6k |
 | [cedar2025/Xboard](https://github.com/cedar2025/Xboard) | High-performance panel based on V2board secondary development supporting new protocols and new features | PHP | 4.7k |
 | [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) | A Theme of Typecho | PHP | 1.6k |
 | [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) | 彩虹聚合DNS管理系统 | PHP | 1.4k |
 | [baomihuahua/lolimeow](https://github.com/baomihuahua/lolimeow) | wordpress主题-lolimeow | PHP | 834 |
 | [adminneo-org/adminneo](https://github.com/adminneo-org/adminneo) | 🛠️ Powerful database manager in a single PHP file | PHP | 366 |
 | [bigfa/Farallon](https://github.com/bigfa/Farallon) | 📓 single column wordpress theme | PHP | 246 |
-| [michaelliunsky/niRvana-theme](https://github.com/michaelliunsky/niRvana-theme) | 📖 niRvana · 轻拟物WordPress主题 | PHP | 171 |
+| [michaelliunsky/niRvana-theme](https://github.com/michaelliunsky/niRvana-theme) | 📖 niRvana · 轻拟物WordPress主题 | PHP | 172 |
 | [17px/typecho-theme-shanhai](https://github.com/17px/typecho-theme-shanhai) | 一款不怎么花哨的 typecho 主题，带点 “重拾写作的乐趣” 的情怀 | PHP | 78 |
 | [wugeng20/HarmonyHuesTheme](https://github.com/wugeng20/HarmonyHuesTheme) | Typecho主题-HarmonyHues,设计灵感源自自然界中的和谐之美。 | PHP | 40 |
+
+### Dart
+
+<a id="sky22333-dart"></a>
+
+| 仓库 | 简介 | 语言 | ★ |
+| --- | --- | --- | ---: |
+| [KaringX/karing](https://github.com/KaringX/karing) | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | Dart | 14.7k |
+| [flutter/agent-plugins](https://github.com/flutter/agent-plugins) |  | Dart | 2.9k |
+| [flutter/ai](https://github.com/flutter/ai) |  | Dart | 285 |
+| [lportals/portal_labs](https://github.com/lportals/portal_labs) | A curated collection of +50 premium, highly customizable Flutter UI interactions and widgets built with Flutter animations. | Dart | 196 |
+| [libnativeapi/nativeapi-flutter](https://github.com/libnativeapi/nativeapi-flutter) | Flutter bindings for nativeapi - providing seamless, unified access to native system APIs. | Dart | 125 |
+| [lofidesigner/hux](https://github.com/lofidesigner/hux) | an open-source state of the art UI library for Flutter 💙 | Dart | 92 |
+| [monkeyWie/dart_ipc](https://github.com/monkeyWie/dart_ipc) | A cross-platform Inter-Process Communication (IPC) library for Dart. | Dart | 10 |
+| [codenameakshay/beui](https://github.com/codenameakshay/beui) |  | Dart | 1 |
+
+### HTML
+
+<a id="sky22333-html"></a>
+
+| 仓库 | 简介 | 语言 | ★ |
+| --- | --- | --- | ---: |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | HTML | 136.8k |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 32.6k |
+| [Tencent/weui](https://github.com/Tencent/weui) | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | HTML | 27.4k |
+| [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. | HTML | 12.5k |
+| [travellings-link/travellings](https://github.com/travellings-link/travellings) | 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。 | HTML | 1.6k |
+| [AirboZH/halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) | 一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing. | HTML | 142 |
+| [zhheo/halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) | 简约的导航主题 | HTML | 108 |
+| [xiaoxinpro/speedtest-go-zh](https://github.com/xiaoxinpro/speedtest-go-zh) | 基于LibreSpeed后端Golang开发的网络测速工具（中文版） | HTML | 18 |
 
 ### Astro
 
@@ -363,12 +394,12 @@
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
 | [saicaca/fuwari](https://github.com/saicaca/fuwari) | ✨A static blog template built with Astro. | Astro | 5.0k |
-| [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) | 🍀Firefly, fresh and aesthetic Astro blog theme template. | Astro | 2.0k |
-| [ricocc/public-portfolio-site](https://github.com/ricocc/public-portfolio-site) | Designer Portfolio&Blog Template | Astro | 292 |
+| [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) | 🍀Firefly, fresh and aesthetic Astro blog theme template. | Astro | 2.1k |
+| [ricocc/public-portfolio-site](https://github.com/ricocc/public-portfolio-site) | Designer Portfolio&Blog Template | Astro | 294 |
 | [WhitePaper233/yukina](https://github.com/WhitePaper233/yukina) | Simple and Elegant Astro Blog Template. | Astro | 283 |
 | [tuyuritio/astro-theme-thought-lite](https://github.com/tuyuritio/astro-theme-thought-lite) | A modern Astro theme, focused on content creation. | Astro | 168 |
 | [haruki-nikaidou/koibumi-blog](https://github.com/haruki-nikaidou/koibumi-blog) | A astro blog template with koibumi design system | Astro | 37 |
-| [onexru/Fuwari-for-TR0-Blog](https://github.com/onexru/Fuwari-for-TR0-Blog) | 雾创岛博客程序 | Astro | 21 |
+| [onexru/Fuwari-for-TR0-Blog](https://github.com/onexru/Fuwari-for-TR0-Blog) | 雾创岛博客程序 | Astro | 23 |
 
 ### C#
 
@@ -384,44 +415,19 @@
 | [LightCountry/TokenPay](https://github.com/LightCountry/TokenPay) | ✅一款同时支持动态和静态收款地址收取TRX、USDT-TRC20、ETH系列区块链所有代币的支付解决方案！✅A payment solution that supports both dynamic and static payee addresses to receive TRX, USDT-TRC20, all tokens of ETH series blockchain! | C# | 1.1k |
 | [Riniba/TelegramMonitor](https://github.com/Riniba/TelegramMonitor) | Telegram监听关键词｜TG抓需求｜实时监测频道｜telegram关键词监控｜电报｜tg关键词监控｜telegram监控机器人｜主动获取｜消息订阅｜telegram消息监控｜tg自动发送消息｜telegram群消息接收｜关键词报警｜多群监控｜自动化群管理｜telegram数据分析 Telegram Keyword Listening \| TG Demand Capture \| Real-Time Channel Monitoring \| Telegram Keyword Monitoring \| Telegram \| TG Keyword Monitoring \| Telegram Monitoring Bot \| Active Retrieval \| Subscription | C# | 313 |
 
-### HTML
+### React
 
-<a id="sky22333-html"></a>
-
-| 仓库 | 简介 | 语言 | ★ |
-| --- | --- | --- | ---: |
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | HTML | 136.0k |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | 28.9k |
-| [Tencent/weui](https://github.com/Tencent/weui) | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. | HTML | 27.4k |
-| [travellings-link/travellings](https://github.com/travellings-link/travellings) | 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。 | HTML | 1.6k |
-| [AirboZH/halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) | 一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing. | HTML | 141 |
-| [zhheo/halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) | 简约的导航主题 | HTML | 107 |
-| [xiaoxinpro/speedtest-go-zh](https://github.com/xiaoxinpro/speedtest-go-zh) | 基于LibreSpeed后端Golang开发的网络测速工具（中文版） | HTML | 18 |
-
-### Dart
-
-<a id="sky22333-dart"></a>
+<a id="sky22333-react"></a>
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [KaringX/karing](https://github.com/KaringX/karing) | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | Dart | 14.6k |
-| [flutter/agent-plugins](https://github.com/flutter/agent-plugins) |  | Dart | 2.9k |
-| [lportals/portal_labs](https://github.com/lportals/portal_labs) | A curated collection of +50 premium, highly customizable Flutter UI interactions and widgets built with Flutter animations. | Dart | 195 |
-| [libnativeapi/nativeapi-flutter](https://github.com/libnativeapi/nativeapi-flutter) | Flutter bindings for nativeapi - providing seamless, unified access to native system APIs. | Dart | 123 |
-| [lofidesigner/hux](https://github.com/lofidesigner/hux) | an open-source state of the art UI library for Flutter 💙 | Dart | 92 |
-| [monkeyWie/dart_ipc](https://github.com/monkeyWie/dart_ipc) | A cross-platform Inter-Process Communication (IPC) library for Dart. | Dart | 10 |
-
-### C
-
-<a id="sky22333-c"></a>
-
-| 仓库 | 简介 | 语言 | ★ |
-| --- | --- | --- | ---: |
-| [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. | C | 11.5k |
-| [istoreos/istoreos](https://github.com/istoreos/istoreos) | 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用） | C | 8.0k |
-| [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) | FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议 | C | 5.9k |
-| [webserver-llc/angie](https://github.com/webserver-llc/angie) | Angie - drop-in replacement for nginx | C | 2.6k |
-| [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc) | Unlocking qualcomm bootloader via gbl exploit. | C | 973 |
+| [vercel/ai](https://github.com/vercel/ai) | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents | TypeScript | 26.6k |
+| [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) | free online AI resume editor，the only official website is  https://magicv.art | TypeScript | 10.4k |
+| [gitalk/gitalk](https://github.com/gitalk/gitalk) | Gitalk is a modern comment component based on Github Issue and Preact. | JavaScript | 7.2k |
+| [code-hike/codehike](https://github.com/code-hike/codehike) | Build rich content websites with Markdown and React | TypeScript | 5.4k |
+| [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) | Use Checkout to quickly collect one-time payments. | CSS | 1.1k |
+| [XiaoMi/hiui](https://github.com/XiaoMi/hiui) | HIUI is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend. | TypeScript | 875 |
+| [Alice39s/kuma-mieru](https://github.com/Alice39s/kuma-mieru) | A 3rd-party Uptime Kuma monitoring dashboard built on Next.js 16, TypeScript and Recharts. | TypeScript | 811 |
 
 ### Flutter
 
@@ -429,11 +435,24 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | Dart | 50.4k |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | Dart | 51.2k |
 | [duobaseio/forui](https://github.com/duobaseio/forui) | Duobase's Flutter UI library | Dart | 2.3k |
 | [rydmike/flex_color_scheme](https://github.com/rydmike/flex_color_scheme) | A Flutter package to make and use beautiful color scheme based themes. | Dart | 1.2k |
-| [larryaasen/upgrader](https://github.com/larryaasen/upgrader) | A Flutter package for prompting users to upgrade when there is a newer version of the app in the store. | Dart | 638 |
-| [sdegenaar/liquid_glass_widgets](https://github.com/sdegenaar/liquid_glass_widgets) | Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box. | Dart | 554 |
+| [larryaasen/upgrader](https://github.com/larryaasen/upgrader) | A Flutter package for prompting users to upgrade when there is a newer version of the app in the store. | Dart | 639 |
+| [sdegenaar/liquid_glass_widgets](https://github.com/sdegenaar/liquid_glass_widgets) | Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box. | Dart | 572 |
+| [codenameakshay/ai_sdk_dart](https://github.com/codenameakshay/ai_sdk_dart) | Dart/Flutter port of Vercel AI SDK v6 — provider-agnostic text generation, streaming, structured output, tools, embeddings, image gen, speech, MCP, and Flutter UI controllers | Dart | 2 |
+
+### C
+
+<a id="sky22333-c"></a>
+
+| 仓库 | 简介 | 语言 | ★ |
+| --- | --- | --- | ---: |
+| [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. | C | 11.6k |
+| [istoreos/istoreos](https://github.com/istoreos/istoreos) | 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用） | C | 8.0k |
+| [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) | FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议 | C | 5.9k |
+| [webserver-llc/angie](https://github.com/webserver-llc/angie) | Angie - drop-in replacement for nginx | C | 2.6k |
+| [kasnria001/qualcomm_gbl_exploit_poc](https://github.com/kasnria001/qualcomm_gbl_exploit_poc) | Unlocking qualcomm bootloader via gbl exploit. | C | 972 |
 
 ### Hacktoberfest
 
@@ -441,11 +460,11 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Java | 91.0k |
-| [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | Google's Material Design in XAML & WPF, for C# & VB.Net. | C# | 16.2k |
-| [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Python | 15.4k |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Java | 91.4k |
+| [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | Google's Material Design in XAML & WPF, for C# & VB.Net. | C# | 16.3k |
 | [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | Python | 15.4k |
-| [callstack/react-native-paper](https://github.com/callstack/react-native-paper) | Material Design for React Native (Android & iOS) | TypeScript | 14.4k |
+| [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) | Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos | Python | 15.4k |
+| [callstack/react-native-paper](https://github.com/callstack/react-native-paper) | Material Design for React Native (Android & iOS) | TypeScript | 14.5k |
 
 ### Windows
 
@@ -453,10 +472,10 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 138.2k |
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | C# | 115.0k |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 138.5k |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others | C# | 115.6k |
 | [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序 | JavaScript | 28.5k |
-| [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | A lightweight utility that makes the Windows taskbar translucent/transparent. | C++ | 20.2k |
+| [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | A lightweight utility that makes the Windows taskbar translucent/transparent. | C++ | 20.3k |
 | [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray | JavaScript | 9.0k |
 
 ### C++
@@ -466,19 +485,9 @@
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
 | [lynx-family/lynx](https://github.com/lynx-family/lynx) | Empower the Web community and invite more to build across platforms. | C++ | 15.1k |
-| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | C++ | 14.8k |
+| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) | C++ | 14.9k |
 | [facebook/redex](https://github.com/facebook/redex) | A bytecode optimizer for Android apps | C++ | 6.3k |
-| [ghboke/core-ui](https://github.com/ghboke/core-ui) | Direct2D hardware-accelerated rendering, Fluent 2 design system, 29+ built-in controls, declarative .ui markup, and a pure C API — all in a single DLL. | C++ | 336 |
-
-### CSS
-
-<a id="sky22333-css"></a>
-
-| 仓库 | 简介 | 语言 | ★ |
-| --- | --- | --- | ---: |
-| [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) | Use Checkout to quickly collect one-time payments. | CSS | 1.1k |
-| [yunyoo-opensource/idcsmart-yunyoo-cart](https://github.com/yunyoo-opensource/idcsmart-yunyoo-cart) | YUNYOO Themes is a theme template based on the IdcsmartFinance system. It features an intuitive and clean interface design, ensuring a smooth user experience while maintaining simplicity.   YUNYOO Themes 是一款基于魔方财务系统的主题模板。拥有直观简洁的界面设计，在简洁的同时保持顺畅的使用体验。 | CSS | 85 |
-| [Master08s/looks-blog](https://github.com/Master08s/looks-blog) | 让写作回归本质，用 GitHub Issues 构建你的个人博客 | CSS | 11 |
+| [ghboke/core-ui](https://github.com/ghboke/core-ui) | Direct2D hardware-accelerated rendering, Fluent 2 design system, 29+ built-in controls, declarative .ui markup, and a pure C API — all in a single DLL. | C++ | 340 |
 
 ### Zig
 
@@ -487,17 +496,17 @@
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
 | [vercel-labs/native](https://github.com/vercel-labs/native) | Toolkit for building native desktop apps | Zig | 7.6k |
-| [marlersoft/zigwin32](https://github.com/marlersoft/zigwin32) | Zig bindings for Win32 generated by https://github.com/marlersoft/zigwin32gen | Zig | 449 |
+| [marlersoft/zigwin32](https://github.com/marlersoft/zigwin32) | Zig bindings for Win32 generated by https://github.com/marlersoft/zigwin32gen | Zig | 450 |
 | [marlersoft/zigwin32gen](https://github.com/marlersoft/zigwin32gen) | Generates Complete Zig bindings for Win32.  See https://github.com/marlersoft/zigwin32 for the bindings themselves. | Zig | 196 |
 
-### Proxy
+### CSS
 
-<a id="sky22333-proxy"></a>
+<a id="sky22333-css"></a>
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [Resinat/Resin](https://github.com/Resinat/Resin) | A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions. | Go | 2.2k |
-| [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) | Tunnel (TUN) interface for SOCKS and HTTP proxies | Rust | 1.4k |
+| [yunyoo-opensource/idcsmart-yunyoo-cart](https://github.com/yunyoo-opensource/idcsmart-yunyoo-cart) | YUNYOO Themes is a theme template based on the IdcsmartFinance system. It features an intuitive and clean interface design, ensuring a smooth user experience while maintaining simplicity.   YUNYOO Themes 是一款基于魔方财务系统的主题模板。拥有直观简洁的界面设计，在简洁的同时保持顺畅的使用体验。 | CSS | 85 |
+| [Master08s/looks-blog](https://github.com/Master08s/looks-blog) | 让写作回归本质，用 GitHub Issues 构建你的个人博客 | CSS | 11 |
 
 ### Vue
 
@@ -506,7 +515,7 @@
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
 | [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus \| vue3 admin \| vue-admin — focused on user experience and visual design. | Vue | 5.8k |
-| [codedthemes/berry-free-vuetify-vuejs-admin-template](https://github.com/codedthemes/berry-free-vuetify-vuejs-admin-template) | Free Vue Vuetify admin template | Vue | 117 |
+| [codedthemes/berry-free-vuetify-vuejs-admin-template](https://github.com/codedthemes/berry-free-vuetify-vuejs-admin-template) | Free Vue Vuetify admin template | Vue | 118 |
 
 ### Batchfile
 
@@ -522,7 +531,7 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [wfql1024/MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager) | 懒得点？懒得扫码？那就交给它！🛠️  这是一款能管理微信、企业微信、QQ等平台多开及免扫码登录的自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀 | Java | 552 |
+| [wfql1024/MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager) | 懒得点？懒得扫码？那就交给它！🛠️  这是一款能管理微信、企业微信、QQ等平台多开及免扫码登录的自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀 | Java | 553 |
 
 ### Markdown
 
@@ -530,7 +539,7 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | Markdown | 33.8k |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | Markdown | 35.9k |
 
 ### Objective-C
 
@@ -546,7 +555,7 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | PowerShell | 32.2k |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | PowerShell | 34.8k |
 
 ### 其他
 
@@ -554,15 +563,14 @@
 
 | 仓库 | 简介 | 语言 | ★ |
 | --- | --- | --- | ---: |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | — | 111.8k |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | — | 93.4k |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | — | 92.9k |
-| [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) |  | — | 17.4k |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | — | 114.5k |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | — | 94.5k |
+| [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) |  | — | 17.5k |
 | [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | 收集整理 GitHub 上高质量、有趣的开源项目。 | — | 17.2k |
 | [fangzesheng/free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 | — | 16.2k |
-| [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) | ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. | — | 15.1k |
-| [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】 | — | 7.2k |
-| [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) | Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit | — | 5.0k |
+| [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) | ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. | — | 15.2k |
+| [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】 | — | 7.3k |
+| [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) | Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit | — | 5.1k |
 | [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) | 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟 | — | 3.1k |
-| [sollyu/AndroidStudioChineseLanguagePack](https://github.com/sollyu/AndroidStudioChineseLanguagePack) | AndroidStudio中文插件(官方修改版本） | — | 2.4k |
+| [sollyu/AndroidStudioChineseLanguagePack](https://github.com/sollyu/AndroidStudioChineseLanguagePack) | AndroidStudio中文插件(官方修改版本） | — | 2.5k |
 
